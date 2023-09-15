@@ -4,7 +4,7 @@
 
 ## Información General
 
-- **Creado por:** Uriel Maldonado Cortez
+- **Creado por:** Gabriel Guzmán Garcia
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
